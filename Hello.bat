@@ -1,2 +1,2 @@
 echo "Hello from GitHub" : %date% : %time%
-echo "We are in Master"
+echo "We are in RFE"
